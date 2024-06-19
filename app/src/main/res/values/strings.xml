@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BMICalc</string>
+    <string name="card_Id">cvWeight</string>
+    <string name="edit_Text">etWeight</string>
+    <string name="text_view">tvWeight</string>
+    <string name="text_View">tvKg</string>
+    <string name="hint">0</string>
+    <string name="text">Weight</string>
+    <string name="side_text">kg</string>
+    <string name="side_text2">cm</string>
+    <string name="textHeight">tvCm</string>
+    <string name="txtHeight">Height</string>
+    <string name="edit_Text2">etHeight</string>
+    <string name="card_Id2">cvHeight</string>
+    <string name="card_Id3">cvResult</string>
+    <string name="text_Result">tvResult</string>
+    <string name="text_Info">tInfo</string>
+    <string name="final_button">resetBtn</string>
+
+
+
+
+
+
+
+
+
+</resources>
